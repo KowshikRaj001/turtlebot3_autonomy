@@ -1,0 +1,1 @@
+/home/kowshikraj/robot_ws/build/autonomous_mobile_robot/ament_cmake_environment_hooks/local_setup.sh

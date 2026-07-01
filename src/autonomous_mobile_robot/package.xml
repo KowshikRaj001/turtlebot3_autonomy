@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>autonomous_mobile_robot</name>
+  <version>0.0.1</version>
+
+  <description>
+    Autonomous Mobile Robot built using ROS2 Jazzy and Modern C++.
+  </description>
+
+  <maintainer email="kaushikprasad2005@gmail.com">Kowshik Raj.A</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
