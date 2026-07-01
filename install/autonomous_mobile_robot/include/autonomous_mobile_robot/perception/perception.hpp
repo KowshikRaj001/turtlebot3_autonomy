@@ -1,1 +1,0 @@
-/home/kowshikraj/robot_ws/src/autonomous_mobile_robot/include/autonomous_mobile_robot/perception/perception.hpp

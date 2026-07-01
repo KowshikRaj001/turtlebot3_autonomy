@@ -1,1 +1,0 @@
-/home/kowshikraj/robot_ws/build/nav_goal_sender/ament_cmake_core/nav_goal_senderConfig.cmake
